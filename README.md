@@ -1,1 +1,1 @@
-# cohio.h
+# cohio.h for linux
