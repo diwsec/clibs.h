@@ -1,5 +1,5 @@
-# cohio.h for linux
+# Library's for linux
 
 ## credits
 
-casualsnek/linuxconio
+casualsnek/linuxconio > conio.h
